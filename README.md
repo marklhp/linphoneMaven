@@ -1,7 +1,7 @@
 # linphoneMaven
 linphone二次封装后的打包地址
 # sipphone使用
-> 使用sipphonp最主要是调用SipUtil类的方法来操作打电话功能,所以需要先创建SipUtil实例，通过静态方法getIns（）创建
+> 使用sipphone最主要是调用SipUtil类的方法来操作打电话功能,所以需要先创建SipUtil实例，通过静态方法getIns（）创建
 
 ---
 > 使用打电话功能，需要先初始化，初始化成功后，然后注册，注册成功后方可接打电话
